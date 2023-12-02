@@ -2,7 +2,7 @@ import csv
 import json
 import os
 
-os.chdir('C:\\Users\\lacou\\Documents\\Little Red Quote Generator')
+os.chdir('C:\\Users\\xxxxxxxx\\Documents\\Little Quote Generator')
 # Function to convert a CSV to JSON
 # Takes the file paths as arguments
 def make_json(csvFilePath, jsonFilePath):
